@@ -18,13 +18,13 @@ Before running the tests, ensure you have the following installed:
 ### Test Cases Summary
 
 - Test Case ID	         Description
-- Test Case 2	           Verify valid hotel search functionality with future dates
-- Test Case 3          	 Verify system error message when selecting past check-in dates
-- Test Case 4	           Verify selected location is correctly displayed on search page
-- Test Case 9	           Verify user can successfully logout
-- Test Case 17	         Verify search order ID functionality
-- Test Case 19	         Verify the ability to cancel an existing hotel order
-- Test Case 20	         Verify navigation and proper display of Search, Itinerary, and Password Change pages
+- Test Case 2:	           Verify valid hotel search functionality with future dates
+- Test Case 3:          	 Verify system error message when selecting past check-in dates
+- Test Case 4:	           Verify selected location is correctly displayed on search page
+- Test Case 9:	           Verify user can successfully logout
+- Test Case 17:	         Verify search order ID functionality
+- Test Case 19:	         Verify the ability to cancel an existing hotel order
+- Test Case 20:	         Verify navigation and proper display of Search, Itinerary, and Password Change pages
 
 
 ### How Tests are Structured
